@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>真橙好车 技术支持</title>
+    <description>真橙好车是由真橙汽车提供的一款二手车信息发布服务，在此，您可查找到真实可靠的车源。如有任何疑问，欢迎发送邮件或前往北京市朝阳区建国路 93 号万达广场 9 号楼 4 层 真橙汽车咨询。
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Aug 2019 12:07:17 +0800</pubDate>
+    <lastBuildDate>Tue, 06 Aug 2019 12:07:17 +0800</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>基本使用</title>
+        <description>&lt;p&gt;如有任何问题，您可发送邮件至 anrangedev@orange-king.com&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;h2 id=&quot;真橙汽车使用教程&quot;&gt;真橙汽车使用教程&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;您可通过手机进行注册，您也可以游客身份进行浏览&lt;/li&gt;
+  &lt;li&gt;如果需要与车商取得联系，请注册并留下您的联系方式，进行预约&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Tue, 10 May 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/2016/05/10/Jekyll-tutorial.html</link>
+        <guid isPermaLink="true">http://localhost:4000/%E5%9F%BA%E6%9C%AC%E4%BD%BF%E7%94%A8/2016/05/10/Jekyll-tutorial.html</guid>
+        
+        <category>教程</category>
+        
+        
+        <category>基本使用</category>
+        
+      </item>
+    
+  </channel>
+</rss>

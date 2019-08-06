@@ -1,0 +1,19 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: 真橙好车 技术支持
+email: nrangedev@orange-king.com
+description: > # this means to ignore newlines until "baseurl:"
+  真橙好车是由真橙汽车提供的一款二手车信息发布服务，在此，您可查找到真实可靠的车源。如有任何疑问，欢迎发送邮件 anrangedev@orange-king.com 或 前往北京市朝阳区建国路 93 号万达广场 9 号楼 4 层 真橙汽车咨询。
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+github_username:  真橙汽车
+excerpt_separator: <!-- more --> # this means, in each post, things before this will be grabbed into excerpt
+
+# Build settings
+markdown: kramdown
